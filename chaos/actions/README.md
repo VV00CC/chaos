@@ -4,12 +4,9 @@ work with python + selenium + appium UI automation test tool
 ## SeleniumPage中常用API说明
 ### 所有元素寻找等待时长默认为10s, 可修改
 1.	设置寻找元素时最长等待时间
-Action.set_timeout(10)
-
-输入参数：等待时长，单位秒
-
-返回值：无
-
++ Action.set_timeout(10)
++ 输入参数：等待时长，单位秒
++ 返回值：无
 
 2.	打开页面
 Action.open(url, pagetitle)
