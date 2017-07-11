@@ -2,7 +2,6 @@
 work with python + selenium + appium UI automation test tool
 
 ## 框架说明：
-+ 引入的Python模块.txt ，列出框架中引入的Python模块
 + actions文件夹，主要用来封装要测试产品的页面，和产品中逻辑相关的action
   - SeleniumPage：
 存放封装好的常用API，API说明可参见actions下的《readme》
