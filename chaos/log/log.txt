@@ -1,0 +1,363 @@
+2017-07-10 13:13:27:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('accessibility id', '\xe6\x9b\xb4\xe5\xa4\x9a\xe5\x8a\x9f\xe8\x83\xbd\xe6\x8c\x89\xe9\x92\xae') 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:accessibility id,更多功能按钮
+2017-07-10 13:13:27:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe6\x89\xab\xe4\xb8\x80\xe6\x89\xab']") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,.//*[@text='扫一扫']
+2017-07-10 13:13:27:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('accessibility id', '\xe6\x9b\xb4\xe5\xa4\x9a') 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:accessibility id,更多
+2017-07-10 13:13:27:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe4\xbb\x8e\xe7\x9b\xb8\xe5\x86\x8c\xe9\x80\x89\xe5\x8f\x96\xe4\xba\x8c\xe7\xbb\xb4\xe7\xa0\x81']") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,.//*[@text='从相册选取二维码']
+2017-07-10 13:13:27:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('accessibility id', '\xe5\x9b\xbe\xe7\x89\x87 4, 2017-07-06 16:19') 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:accessibility id,图片 4, 2017-07-06 16:19
+2017-07-10 13:13:27:cannot switch to context 'module' object has no attribute 'contexts'
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('id', 'meeting-title') 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:id,meeting-title
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h4") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h4
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='summary']/div[contains(@class,'section')]") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='summary']/div[contains(@class,'section')]
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='agendas']/div[contains(@class,'section')]") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='agendas']/div[contains(@class,'section')]
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='materials']/div[contains(@class,'section')]") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='materials']/div[contains(@class,'section')]
+2017-07-10 13:13:27:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='speakers']/div[contains(@class,'section')]") 元素
+2017-07-10 13:13:27:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='speakers']/div[contains(@class,'section')]
+2017-07-10 13:13:27:cannot switch to context 'module' object has no attribute 'contexts'
+2017-07-10 13:14:00:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe9\x80\x9a\xe8\xae\xaf\xe5\xbd\x95']") 元素
+2017-07-10 13:14:00:Not get avaliable web element by locator:xpath,.//*[@text='通讯录']
+2017-07-10 13:14:00:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe5\x85\xac\xe4\xbc\x97\xe5\x8f\xb7']") 元素
+2017-07-10 13:14:00:Not get avaliable web element by locator:xpath,.//*[@text='公众号']
+2017-07-10 13:14:00:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe7\xa4\xbc\xe5\x8c\xbb\xe5\x86\x85\xe9\x83\xa8\xe6\xb5\x8b\xe8\xaf\x95']") 元素
+2017-07-10 13:14:00:Not get avaliable web element by locator:xpath,.//*[@text='礼医内部测试']
+2017-07-10 13:14:00:Here is idoctor main page...
+2017-07-10 13:14:00:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe6\x88\x91\xe7\x9a\x84\xe4\xbc\x9a\xe8\xae\xae']") 元素
+2017-07-10 13:14:00:Not get avaliable web element by locator:xpath,.//*[@text='我的会议']
+2017-07-10 13:14:00:<actions.idoctor_main.mainPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', ".//*[@text='\xe4\xbc\x9a\xe8\xae\xae\xe5\x88\x97\xe8\xa1\xa8']") 元素
+2017-07-10 13:14:00:Not get avaliable web element by locator:xpath,.//*[@text='会议列表']
+2017-07-10 13:14:00:Here is my meeting list page...
+2017-07-10 13:14:00:cannot switch to context 'module' object has no attribute 'contexts'
+2017-07-10 13:14:00:<actions.idoctor_meetings.meetingPage object at 0x0000000003A27B38> 页面中未能找到 ('xpath', "//div[@id='layout-wrapper']//ul/li") 元素
+2017-07-10 13:14:00:Not get avaliable web element by locator:xpath,//div[@id='layout-wrapper']//ul/li
+2017-07-10 13:16:53:<actions.idoctor_main.mainPage object at 0x0000000004640710> 页面中未能找到 ('accessibility id', '\xe6\x9b\xb4\xe5\xa4\x9a\xe5\x8a\x9f\xe8\x83\xbd\xe6\x8c\x89\xe9\x92\xae') 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:accessibility id,更多功能按钮
+2017-07-10 13:16:53:<actions.idoctor_main.mainPage object at 0x0000000004640710> 页面中未能找到 ('xpath', ".//*[@text='\xe6\x89\xab\xe4\xb8\x80\xe6\x89\xab']") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,.//*[@text='扫一扫']
+2017-07-10 13:16:53:<actions.idoctor_main.mainPage object at 0x0000000004640710> 页面中未能找到 ('accessibility id', '\xe6\x9b\xb4\xe5\xa4\x9a') 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:accessibility id,更多
+2017-07-10 13:16:53:<actions.idoctor_main.mainPage object at 0x0000000004640710> 页面中未能找到 ('xpath', ".//*[@text='\xe4\xbb\x8e\xe7\x9b\xb8\xe5\x86\x8c\xe9\x80\x89\xe5\x8f\x96\xe4\xba\x8c\xe7\xbb\xb4\xe7\xa0\x81']") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,.//*[@text='从相册选取二维码']
+2017-07-10 13:16:53:<actions.idoctor_main.mainPage object at 0x0000000004640710> 页面中未能找到 ('accessibility id', '\xe5\x9b\xbe\xe7\x89\x87 4, 2017-07-06 16:19') 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:accessibility id,图片 4, 2017-07-06 16:19
+2017-07-10 13:16:53:cannot switch to context 'module' object has no attribute 'contexts'
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('id', 'meeting-title') 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:id,meeting-title
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h4") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h4
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='summary']/div[contains(@class,'section')]") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='summary']/div[contains(@class,'section')]
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='agendas']/div[contains(@class,'section')]") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='agendas']/div[contains(@class,'section')]
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='materials']/div[contains(@class,'section')]") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='materials']/div[contains(@class,'section')]
+2017-07-10 13:16:53:<actions.idoctor_meetings.meetingPage object at 0x0000000004640710> 页面中未能找到 ('xpath', "//div[@id='elementContainer']/div[@name='speakers']/div[contains(@class,'section')]") 元素
+2017-07-10 13:16:53:Not get avaliable web element by locator:xpath,//div[@id='elementContainer']/div[@name='speakers']/div[contains(@class,'section')]
+2017-07-10 13:16:53:cannot switch to context 'module' object has no attribute 'contexts'
+2017-07-10 13:17:53:<actions.idoctor_main.mainPage object at 0x00000000045C8B38> 页面中未能找到 ('accessibility id', '\xe8\xbf\x94\xe5\x9b\x9e') 元素
+2017-07-10 13:17:53:Not get avaliable web element by locator:accessibility id,返回
+2017-07-10 13:17:54:<actions.idoctor_main.mainPage object at 0x00000000045C8B38> 页面中未能找到 ('xpath', ".//*[@text='\xe9\x80\x9a\xe8\xae\xaf\xe5\xbd\x95']") 元素
+2017-07-10 13:17:54:Not get avaliable web element by locator:xpath,.//*[@text='通讯录']
+2017-07-10 13:17:54:<actions.idoctor_main.mainPage object at 0x00000000045C8B38> 页面中未能找到 ('xpath', ".//*[@text='\xe5\x85\xac\xe4\xbc\x97\xe5\x8f\xb7']") 元素
+2017-07-10 13:17:54:Not get avaliable web element by locator:xpath,.//*[@text='公众号']
+2017-07-10 13:17:54:<actions.idoctor_main.mainPage object at 0x00000000045C8B38> 页面中未能找到 ('xpath', ".//*[@text='\xe7\xa4\xbc\xe5\x8c\xbb\xe5\x86\x85\xe9\x83\xa8\xe6\xb5\x8b\xe8\xaf\x95']") 元素
+2017-07-10 13:17:54:Not get avaliable web element by locator:xpath,.//*[@text='礼医内部测试']
+2017-07-10 13:17:54:Here is idoctor main page...
+2017-07-10 13:17:54:<actions.idoctor_main.mainPage object at 0x00000000045C8B38> 页面中未能找到 ('xpath', ".//*[@text='\xe6\x88\x91\xe7\x9a\x84\xe4\xbc\x9a\xe8\xae\xae']") 元素
+2017-07-10 13:17:54:Not get avaliable web element by locator:xpath,.//*[@text='我的会议']
+2017-07-10 13:17:54:<actions.idoctor_main.mainPage object at 0x00000000045C8B38> 页面中未能找到 ('xpath', ".//*[@text='\xe4\xbc\x9a\xe8\xae\xae\xe5\x88\x97\xe8\xa1\xa8']") 元素
+2017-07-10 13:17:54:Not get avaliable web element by locator:xpath,.//*[@text='会议列表']
+2017-07-10 13:17:54:Here is my meeting list page...
+2017-07-10 13:17:54:cannot switch to context 'module' object has no attribute 'contexts'
+2017-07-10 13:17:54:<actions.idoctor_meetings.meetingPage object at 0x00000000045C8B38> 页面中未能找到 ('xpath', "//div[@id='layout-wrapper']//ul/li") 元素
+2017-07-10 13:17:54:Not get avaliable web element by locator:xpath,//div[@id='layout-wrapper']//ul/li
+2017-07-10 13:18:43:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:18:52:switch to context NATIVE_APP
+2017-07-10 13:18:58:Here is idoctor main page...
+2017-07-10 13:19:02:Here is my meeting list page...
+2017-07-10 13:19:09:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:19:12:switch to context NATIVE_APP
+2017-07-10 13:19:21:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:19:23:switch to context NATIVE_APP
+2017-07-10 13:19:24:switch to context NATIVE_APP
+2017-07-10 13:19:35:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:19:40:switch to context NATIVE_APP
+2017-07-10 13:19:45:Here is polling page...
+2017-07-10 13:20:01:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:20:15:<actions.idoctor_polling.pollingPage object at 0x000000000392FF98> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 13:20:21:switch to context NATIVE_APP
+2017-07-10 13:20:25:Here is Q&A page...
+2017-07-10 13:20:52:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:21:03:switch to context NATIVE_APP
+2017-07-10 13:27:22:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:27:31:switch to context NATIVE_APP
+2017-07-10 13:27:37:Here is idoctor main page...
+2017-07-10 13:27:41:Here is my meeting list page...
+2017-07-10 13:27:48:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:27:53:switch to context NATIVE_APP
+2017-07-10 13:28:05:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:28:08:switch to context NATIVE_APP
+2017-07-10 13:28:09:switch to context NATIVE_APP
+2017-07-10 13:28:23:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:28:30:switch to context NATIVE_APP
+2017-07-10 13:28:36:Here is polling page...
+2017-07-10 13:28:54:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:29:08:<actions.idoctor_polling.pollingPage object at 0x00000000037B1908> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 13:29:16:switch to context NATIVE_APP
+2017-07-10 13:29:22:Here is Q&A page...
+2017-07-10 13:29:48:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:30:03:switch to context NATIVE_APP
+2017-07-10 13:33:05:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:33:21:switch to context NATIVE_APP
+2017-07-10 13:33:30:Here is idoctor main page...
+2017-07-10 13:33:34:Here is my meeting list page...
+2017-07-10 13:33:43:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:33:49:switch to context NATIVE_APP
+2017-07-10 13:34:01:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:34:04:switch to context NATIVE_APP
+2017-07-10 13:34:06:switch to context NATIVE_APP
+2017-07-10 13:34:19:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:34:28:switch to context NATIVE_APP
+2017-07-10 13:34:34:Here is polling page...
+2017-07-10 13:34:52:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:35:07:<actions.idoctor_polling.pollingPage object at 0x000000000434A2B0> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 13:35:16:switch to context NATIVE_APP
+2017-07-10 13:35:23:Here is Q&A page...
+2017-07-10 13:35:44:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:35:56:switch to context NATIVE_APP
+2017-07-10 13:39:49:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:40:04:switch to context NATIVE_APP
+2017-07-10 13:40:13:Here is idoctor main page...
+2017-07-10 13:40:17:Here is my meeting list page...
+2017-07-10 13:40:25:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:40:31:switch to context NATIVE_APP
+2017-07-10 13:40:43:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:40:46:switch to context NATIVE_APP
+2017-07-10 13:40:48:switch to context NATIVE_APP
+2017-07-10 13:41:00:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:41:10:switch to context NATIVE_APP
+2017-07-10 13:41:16:Here is polling page...
+2017-07-10 13:41:35:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:41:50:<actions.idoctor_polling.pollingPage object at 0x0000000003FBB9E8> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 13:41:58:switch to context NATIVE_APP
+2017-07-10 13:42:04:Here is Q&A page...
+2017-07-10 13:42:25:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 13:42:40:switch to context NATIVE_APP
+2017-07-10 16:25:49:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:25:59:switch to context NATIVE_APP
+2017-07-10 16:26:06:Here is idoctor main page...
+2017-07-10 16:26:09:Here is my meeting list page...
+2017-07-10 16:26:18:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:26:21:switch to context NATIVE_APP
+2017-07-10 16:26:32:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:26:34:switch to context NATIVE_APP
+2017-07-10 16:26:35:switch to context NATIVE_APP
+2017-07-10 16:26:47:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:26:52:switch to context NATIVE_APP
+2017-07-10 16:26:57:Here is polling page...
+2017-07-10 16:27:14:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:27:28:<actions.idoctor_polling.pollingPage object at 0x00000000040944A8> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 16:27:32:switch to context NATIVE_APP
+2017-07-10 16:27:37:Here is Q&A page...
+2017-07-10 16:28:02:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:28:12:switch to context NATIVE_APP
+2017-07-10 16:29:08:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:29:13:switch to context NATIVE_APP
+2017-07-10 16:29:20:Here is idoctor main page...
+2017-07-10 16:29:23:Here is my meeting list page...
+2017-07-10 16:29:42:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:29:47:switch to context NATIVE_APP
+2017-07-10 16:30:06:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:30:08:switch to context NATIVE_APP
+2017-07-10 16:30:09:switch to context NATIVE_APP
+2017-07-10 16:30:22:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:30:28:switch to context NATIVE_APP
+2017-07-10 16:30:32:Here is polling page...
+2017-07-10 16:30:50:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:31:03:<actions.idoctor_polling.pollingPage object at 0x00000000040944A8> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 16:31:08:switch to context NATIVE_APP
+2017-07-10 16:31:12:Here is Q&A page...
+2017-07-10 16:31:33:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:31:47:switch to context NATIVE_APP
+2017-07-10 16:32:59:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:33:09:switch to context NATIVE_APP
+2017-07-10 16:33:19:Here is idoctor main page...
+2017-07-10 16:33:23:Here is my meeting list page...
+2017-07-10 16:33:41:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:33:55:switch to context NATIVE_APP
+2017-07-10 16:34:10:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:34:14:switch to context NATIVE_APP
+2017-07-10 16:34:16:switch to context NATIVE_APP
+2017-07-10 16:34:33:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:34:43:switch to context NATIVE_APP
+2017-07-10 16:34:50:Here is polling page...
+2017-07-10 16:35:12:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:35:28:<actions.idoctor_polling.pollingPage object at 0x00000000040ABA20> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 16:35:36:switch to context NATIVE_APP
+2017-07-10 16:35:43:Here is Q&A page...
+2017-07-10 16:36:07:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:36:23:switch to context NATIVE_APP
+2017-07-10 16:37:33:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:37:43:switch to context NATIVE_APP
+2017-07-10 16:37:53:Here is idoctor main page...
+2017-07-10 16:37:57:Here is my meeting list page...
+2017-07-10 16:38:13:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:38:31:switch to context NATIVE_APP
+2017-07-10 16:38:47:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:38:51:switch to context NATIVE_APP
+2017-07-10 16:38:52:switch to context NATIVE_APP
+2017-07-10 16:39:10:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:39:19:switch to context NATIVE_APP
+2017-07-10 16:39:26:Here is polling page...
+2017-07-10 16:39:49:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:40:04:<actions.idoctor_polling.pollingPage object at 0x00000000040C5198> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 16:40:11:switch to context NATIVE_APP
+2017-07-10 16:40:17:Here is Q&A page...
+2017-07-10 16:40:40:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:40:55:switch to context NATIVE_APP
+2017-07-10 16:42:04:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:42:13:switch to context NATIVE_APP
+2017-07-10 16:42:23:Here is idoctor main page...
+2017-07-10 16:42:27:Here is my meeting list page...
+2017-07-10 16:42:41:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:42:57:switch to context NATIVE_APP
+2017-07-10 16:43:04:Here is polling page...
+2017-07-10 16:43:21:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:43:36:<actions.idoctor_polling.pollingPage object at 0x00000000040C4940> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 16:43:43:switch to context NATIVE_APP
+2017-07-10 16:43:49:Here is Q&A page...
+2017-07-10 16:44:14:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 16:44:29:switch to context NATIVE_APP
+2017-07-10 16:49:35:global name 'QRCode' is not defined
+2017-07-10 17:13:18:<actions.idoctor_main.mainPage object at 0x0000000003D9DEB8> 页面中未能找到 ('xpath', ".//*[@text='\xe7\xa4\xbc\xe5\x8c\xbb\xe4\xbd\xbf\xe7\x94\xa8\xe6\x9d\xa1\xe6\xac\xbe']") 元素
+2017-07-10 17:13:18:Not get avaliable web element by locator:xpath,.//*[@text='礼医使用条款']
+2017-07-10 17:15:20:<actions.idoctor_main.mainPage object at 0x0000000003B85DD8> 页面中未能找到 ('xpath', ".//*[@text='\xe9\x80\x9a\xe8\xae\xaf\xe5\xbd\x95']") 元素
+2017-07-10 17:15:35:open_context() takes no arguments (1 given)
+2017-07-10 17:18:27:<actions.idoctor_main.mainPage object at 0x0000000003701F28> 页面中未能找到 ('xpath', ".//*[@text='\xe9\x80\x9a\xe8\xae\xaf\xe5\xbd\x95']") 元素
+2017-07-10 17:18:48:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:18:59:<actions.idoctor_main.mainPage object at 0x0000000003769F60> 页面中未能找到 ('id', 'link') 元素
+2017-07-10 17:18:59:Not get avaliable web element by locator:id,link
+2017-07-10 17:19:00:switch to context NATIVE_APP
+2017-07-10 17:19:05:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:19:18:<actions.idoctor_meetings.meetingPage object at 0x0000000003701F98> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 17:19:18:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 17:19:23:switch to context NATIVE_APP
+2017-07-10 17:19:33:Here is idoctor main page...
+2017-07-10 17:19:37:Here is my meeting list page...
+2017-07-10 17:19:50:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:20:07:switch to context NATIVE_APP
+2017-07-10 17:20:28:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:20:32:switch to context NATIVE_APP
+2017-07-10 17:20:33:switch to context NATIVE_APP
+2017-07-10 17:20:56:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:21:09:<actions.idoctor_meetings.meetingPage object at 0x0000000003769CC0> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 17:21:09:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 17:21:15:switch to context NATIVE_APP
+2017-07-10 17:21:21:Here is polling page...
+2017-07-10 17:21:42:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:21:57:<actions.idoctor_polling.pollingPage object at 0x0000000003782E48> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 17:22:04:switch to context NATIVE_APP
+2017-07-10 17:22:10:Here is Q&A page...
+2017-07-10 17:22:31:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:22:46:switch to context NATIVE_APP
+2017-07-10 17:32:23:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:32:40:<actions.idoctor_meetings.meetingPage object at 0x00000000041A4940> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 17:32:40:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 17:32:45:switch to context NATIVE_APP
+2017-07-10 17:32:55:Here is idoctor main page...
+2017-07-10 17:32:59:Here is my meeting list page...
+2017-07-10 17:33:10:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:33:27:switch to context NATIVE_APP
+2017-07-10 17:33:45:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:33:49:switch to context NATIVE_APP
+2017-07-10 17:33:50:switch to context NATIVE_APP
+2017-07-10 17:34:11:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:34:24:<actions.idoctor_meetings.meetingPage object at 0x0000000004136F98> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 17:34:24:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 17:34:29:switch to context NATIVE_APP
+2017-07-10 17:34:36:Here is polling page...
+2017-07-10 17:35:00:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:35:15:<actions.idoctor_polling.pollingPage object at 0x00000000041BD4A8> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 17:35:23:switch to context NATIVE_APP
+2017-07-10 17:35:29:Here is Q&A page...
+2017-07-10 17:35:51:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:36:06:switch to context NATIVE_APP
+2017-07-10 17:44:09:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:44:28:<actions.idoctor_meetings.meetingPage object at 0x00000000037F6EB8> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 17:44:28:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 17:44:34:switch to context NATIVE_APP
+2017-07-10 17:44:44:Here is idoctor main page...
+2017-07-10 17:44:48:Here is my meeting list page...
+2017-07-10 17:45:00:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:45:17:switch to context NATIVE_APP
+2017-07-10 17:45:41:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:45:45:switch to context NATIVE_APP
+2017-07-10 17:45:47:switch to context NATIVE_APP
+2017-07-10 17:46:09:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:46:22:<actions.idoctor_meetings.meetingPage object at 0x00000000037F6EB8> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-10 17:46:22:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-10 17:46:27:switch to context NATIVE_APP
+2017-07-10 17:46:33:Here is polling page...
+2017-07-10 17:46:54:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:47:09:<actions.idoctor_polling.pollingPage object at 0x00000000037F6EB8> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-10 17:47:18:switch to context NATIVE_APP
+2017-07-10 17:47:24:Here is Q&A page...
+2017-07-10 17:47:48:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-10 17:48:03:switch to context NATIVE_APP
+2017-07-11 11:07:45:Here is idoctor main page...
+2017-07-11 11:07:50:Here is library online list page...
+2017-07-11 11:07:53:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:07:56:switch to context NATIVE_APP
+2017-07-11 11:08:00:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:08:09:switch to context NATIVE_APP
+2017-07-11 11:08:15:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:08:22:switch to context NATIVE_APP
+2017-07-11 11:12:09:Here is idoctor main page...
+2017-07-11 11:12:12:Here is library online list page...
+2017-07-11 11:12:15:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:12:17:switch to context NATIVE_APP
+2017-07-11 11:12:20:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:12:21:switch to context NATIVE_APP
+2017-07-11 11:12:25:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:12:27:switch to context NATIVE_APP
+2017-07-11 11:19:25:Here is idoctor main page...
+2017-07-11 11:19:29:Here is library online list page...
+2017-07-11 11:19:32:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:19:32:book_no_exist() takes exactly 2 arguments (1 given)
+2017-07-11 11:21:00:Here is idoctor main page...
+2017-07-11 11:21:03:Here is library online list page...
+2017-07-11 11:21:07:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 11:21:09:switch to context NATIVE_APP
+2017-07-11 13:08:06:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 13:08:26:<actions.idoctor_meetings.meetingPage object at 0x00000000035193C8> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-11 13:08:26:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-11 13:08:29:switch to context NATIVE_APP
+2017-07-11 13:08:35:Here is idoctor main page...
+2017-07-11 13:08:38:Here is my meeting list page...
+2017-07-11 13:08:48:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 13:08:57:switch to context NATIVE_APP
+2017-07-11 13:09:13:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 13:09:15:switch to context NATIVE_APP
+2017-07-11 13:09:16:switch to context NATIVE_APP
+2017-07-11 13:09:33:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 13:09:45:<actions.idoctor_meetings.meetingPage object at 0x00000000035193C8> 页面中未能找到 ('xpath', "//h1[@id='meeting-title']/following-sibling::h5") 元素
+2017-07-11 13:09:45:Not get avaliable web element by locator:xpath,//h1[@id='meeting-title']/following-sibling::h5
+2017-07-11 13:09:49:switch to context NATIVE_APP
+2017-07-11 13:09:53:Here is polling page...
+2017-07-11 13:10:22:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 13:10:35:<actions.idoctor_polling.pollingPage object at 0x00000000035193C8> 页面中未能找到 ('xpath', "//div[@id='questionArea_2']//div[contains(@id,'singlechoice_')]") 元素
+2017-07-11 13:10:39:switch to context NATIVE_APP
+2017-07-11 13:10:44:Here is Q&A page...
+2017-07-11 13:11:11:switch to context WEBVIEW_com.tencent.mm:tools
+2017-07-11 13:11:19:switch to context NATIVE_APP

@@ -1,0 +1,8 @@
+selenium
+appium
+sys
+time
+datetime
+os
+csv
+codecs
