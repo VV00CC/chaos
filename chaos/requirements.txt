@@ -1,8 +1,2 @@
-selenium
-appium
-sys
-time
-datetime
-os
-csv
-codecs
+Appium-Python-Client==0.24
+selenium==3.4.3
