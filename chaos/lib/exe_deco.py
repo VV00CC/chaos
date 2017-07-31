@@ -29,7 +29,8 @@ def exe_deco(func):
                 func(appium_driver,myReport)
                 print func.__name__+" finished..."
             except Exception,e:
-                write_log(str(e))    
+                write_log(str(e))
+                myReport.my_assert(False,str(e))
                 print func.__name__+" failed..."
             finally:
                 #退出driver

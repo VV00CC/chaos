@@ -97,6 +97,8 @@ class myReport():
         </body>
         </html>
         """)
+        csvfile.close()
+        html.close()
 
 				
 
